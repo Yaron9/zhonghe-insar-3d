@@ -10,7 +10,7 @@ https://yaron9.github.io/zhonghe-insar-3d/
 
 - AOI: 10 km x 10 km
 - Terrain: DEM mesh, 229 x 227 grid, 2.0x vertical exaggeration
-- Imagery: Esri World Imagery z15, external 4096 px texture
+- Imagery: Esri World Imagery z17, external 8192 x 8120 texture, about 23 MB
 - Prediction zones: 86 zones, 3131 pixels
 - LOS-visible candidate pixels: 1761, about 56.2%
 
